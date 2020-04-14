@@ -19,12 +19,12 @@
             android:orientation="vertical"
             android:padding="10dp">
 
-            <com.example.sns_project.view.ReadContentsVIew
+            <com.example.hansungsns.view.ReadContentsVIew
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:id="@+id/readContentsView">
 
-            </com.example.sns_project.view.ReadContentsVIew>
+            </com.example.hansungsns.view.ReadContentsVIew>
         </LinearLayout>
     </ScrollView>
 
